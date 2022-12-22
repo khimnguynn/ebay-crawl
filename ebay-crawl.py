@@ -61,4 +61,3 @@ if __name__ == "__main__":
     while 1:
         word = Get_Word()
         Get_ListingId(word)
-
